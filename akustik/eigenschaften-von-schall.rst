@@ -4,7 +4,7 @@
 Eigenschaften von Schall
 ========================
 
-Als "Schall" bezeichnen wir alle Klänge, Geräusche usw. die Menschen und/oder
+Als "Schall" bezeichnen wir alle Klänge, Geräusche usw. die Menschen oder
 Tiere mit ihrem Gehör wahrnehmen können. Damit Schall entstehen kann, muss ein
 mechanischer Körper in einen entsprechenden Schwingungszustand gebracht werden.
 
